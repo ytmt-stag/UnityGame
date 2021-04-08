@@ -1,0 +1,22 @@
+{
+    "name": "App",
+    "rootNamespace": "",
+    "references": [
+        "AppLib",
+        "UniTask",
+        "MagicOnion.Abstractions",
+        "MagicOnion.Client",
+        "MessagePack",
+        "Unity.TextMeshPro",
+        "ServerShared"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

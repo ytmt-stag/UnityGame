@@ -1,0 +1,19 @@
+{
+    "name": "ServerShared",
+    "rootNamespace": "",
+    "references": [
+        "MagicOnion.Client",
+        "MagicOnion.Unity",
+        "MagicOnion.Abstractions",
+        "MessagePack"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

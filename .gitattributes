@@ -1,0 +1,33 @@
+# code
+*.cs text
+*.c text
+*.h text
+*.cpp text
+*.hpp text
+*.m text
+*.mm text
+*.java text
+
+# script
+*.sh text
+*.rb text
+*.py text
+*.js text
+*.php text
+*.groovy text
+
+# shader
+*.cginc text  eol=crlf
+*.shader text eol=crlf
+
+# data
+*.yml text
+*.json text
+*.md text
+
+# unity
+*.unity text eol=lf
+*.meta text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.spriteatlas text eol=lf

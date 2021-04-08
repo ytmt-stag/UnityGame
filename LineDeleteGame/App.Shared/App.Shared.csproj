@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MagicOnion.Abstractions" Version="4.1.2" />
+    <PackageReference Include="MessagePack.UnityShims" Version="2.2.85" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Assets\Scripts\App\Server\Shared\**\*.cs" />
+  </ItemGroup>
+
+</Project>

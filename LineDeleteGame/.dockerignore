@@ -1,0 +1,12 @@
+﻿Assets/
+!Assets/Scripts
+Logs/
+Packages/
+UserSettings/
+Library/
+
+.git
+
+k8s/
+.vs/
+.vscode/

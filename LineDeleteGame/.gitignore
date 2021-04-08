@@ -1,0 +1,11 @@
+# -----------------
+# gRPC
+# サイズがでかいのでgit管理外 / 使用者側に入れてもらうよう促す / 使用バージョン情報はReadMe参照
+# -----------------
+Assets/Plugins/Google.Protobuf*
+Assets/Plugins/Grpc.Core*
+
+# -----------------
+# docker用環境ファイル
+# -----------------
+.env
